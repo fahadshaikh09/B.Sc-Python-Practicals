@@ -26,7 +26,7 @@
 		****
 
 		*********
-		
+
 		*******
 
 *3. Program for Following Probelem Statments*
@@ -36,3 +36,11 @@
 	b. Take a list, say for example this one:
 		a=[1,1,2,3,5,8,13,21,34,55,89]
 		and write a program that prints out all the elements of the list that are less than 5.
+
+*4. Program for Following Probelem Statments*
+	
+	a. Write a program that takes two lists and returns True if they have at least one common member.
+
+	b. Write a Python program to print a specified list after removing the 0th, 2nd, 4th and 5th elements.
+
+	c. Write a Python program to clone or copy a list
