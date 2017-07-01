@@ -2,7 +2,7 @@
 
 ## This Repository Contains Following Codes
 
-1. *Program for Following Probelem Statments*
+*1. Program for Following Probelem Statments*
 
 	a. Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
 	
@@ -16,7 +16,7 @@
 
 	f. Write a recursive function to print the factorial for a given number.
 
-2. *Program for Following Probelem Statments*
+*2. Program for Following Probelem Statments*
 	
 	a. Write a function that takes a character (i.e. a string of length 1) and returns True if it is a vowel, False otherwise.
 
@@ -29,7 +29,7 @@
 
 		*******
 
-3. *Program for Following Probelem Statments*
+*3. Program for Following Probelem Statments*
 
 	a. A pangram is a sentence that contains all the letters of the English alphabet at least once, for example: The quick brown fox jumps over the lazy dog. Your task here is to write a function to check a sentence to see if it is a pangram or not.
 
@@ -37,7 +37,7 @@
 		a=[1,1,2,3,5,8,13,21,34,55,89]
 		and write a program that prints out all the elements of the list that are less than 5.
 
-4. *Program for Following Probelem Statments*
+*4. Program for Following Probelem Statments*
 	
 	a. Write a program that takes two lists and returns True if they have at least one common member.
 
@@ -45,7 +45,7 @@
 
 	c. Write a Python program to clone or copy a list
 
-5. *Program for Following Probelem Statments*
+*5. Program for Following Probelem Statments*
 
 	a. Write a Python script to sort (ascending and descending) a dictionary by value.
 
@@ -57,4 +57,11 @@
 		Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
 	
 	c. Write a Python program to sum all the items in a dictionary.
+
+*6. Program for Following Probelem Statments*
 	
+	a. Write a Python program to read an entire text file.
+
+	b. Write a Python program to append text to a file and display the text.
+
+	c. Write a Python program to read last n lines of a file.
