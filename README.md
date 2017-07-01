@@ -2,7 +2,7 @@
 
 ## This Repository Contains Following Codes
 
-1. Program for Following Probelem Statments
+*1. Program for Following Probelem Statments*
 
 	a. Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
 	
@@ -16,7 +16,7 @@
 
 	f. Write a recursive function to print the factorial for a given number.
 
-2. Program for Following Probelem Statments
+*2. Program for Following Probelem Statments*
 	
 	a. Write a function that takes a character (i.e. a string of length 1) and returns True if it is a vowel, False otherwise.
 
@@ -24,5 +24,15 @@
 
 	c. Define a procedurehistogram() that takes a list of integers and prints a histogram to the screen. For example, histogram([4, 9, 7]) should print the following:
 		****
+
 		*********
+		
 		*******
+
+*3. Program for Following Probelem Statments*
+
+	a. A pangram is a sentence that contains all the letters of the English alphabet at least once, for example: The quick brown fox jumps over the lazy dog. Your task here is to write a function to check a sentence to see if it is a pangram or not.
+
+	b. Take a list, say for example this one:
+		a=[1,1,2,3,5,8,13,21,34,55,89]
+		and write a program that prints out all the elements of the list that are less than 5.
